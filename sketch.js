@@ -14,7 +14,7 @@
  }
  function draw(){
 
-  backgroun(0);
+  background(0);
 
   car1.velocitX = speed;
 
